@@ -1,4 +1,4 @@
-title: Strata by HTML5 UP
+title: Project UAS
 description: >
   **I am Strata**, a super simple
   responsive site template freebie
@@ -6,17 +6,17 @@ description: >
 copyright: Untitled
 sass:
   sass_dir: assets/sass
-url: http://localhost:4000
-disqus_shortname: stratajekylldemo
-facebook_username:
-twitter_username: "#"
-linkedin_username: "#"
-instagram_username:
-pinterest_username:
-flickr_username:
-github_username:  "#"
-feed_icon: rss
-email: "#"
+url: https://sifuinsuskariau.github.io/strata.github.io/
+# disqus_shortname: stratajekylldemo
+# facebook_username:
+# twitter_username: "#"
+# linkedin_username: "#"
+# instagram_username:
+# pinterest_username:
+# flickr_username:
+ github_username:  "https://sifuinsuskariau.github.io"
+# feed_icon: rss
+#email: "#"
 gems: [jekyll-paginate]
 paginate_path: "/page/:num/"
 paginate: 5
